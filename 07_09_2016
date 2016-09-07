@@ -1,0 +1,70 @@
+Everyone knows the divisibility rule of 3 .
+Sum of all the digits of the number are divisible by 3.
+
+This info helps us to think of number as a string of digits . And once we get into the domain of string of digits ,
+integer data types holds no bar for us . 
+We dont have to think in terms of numbers , think for I/O overflow etc . 
+Basically we can handle numbers containing any arbitrary number of digits .
+
+Hence solving a test case with a number having 10^6 digits is as easy as solving a number with less than 9 digits [Int Range] 
+or 18 digits[Long LOng Int Range] .
+
+We just add all the digits and mod it with 3 to get the final answer .
+
+Lets modify the question a little bit .
+
+Let a Number is given , N < 10^1000 . 
+And we are given Query of type L,R and we have to report whether 
+the number formed from N[L] to N[R] inclusive is divisible by 3 or not .
+[1 indexing]
+Example : 
+
+Number = 474902823
+Index  = 123456789
+
+Queries : 
+L=1 R=2 : M = 47 --> ANS : FALSE
+L=8 R=9 : M = 23 --> ANS : FALSE
+
+So , how do we solve it ??
+
+The only thing that matters is SUM[L-->R] . Right ??
+Then we mod it with 3 and we have our answer . 
+
+So lets preprocess the Array by finding the cummulative sum 
+and then we can answer SUM[L-->R] in O(1) by using 
+SUM[R] - SUM[L-1] . 
+
+Hence we have reduced our query to O(1) . 
+
+What if the a sum in cummulative array overflows . [Well not likely , but still , well never]
+Lets No_of_digits be K 
+Max Number formed can be with all 9s . 
+So max sum at last index is 9K
+For overflow 9K > 2^31 
+Implies that K > 2^31/9 or a bad approximation will be 2^31/8 ---> 2^28 ---> An array of this length is very unlikely . 
+
+
+***********************************************************************************************************
+
+What if we had a query which updates a N[i] with something else . 
+Now we have two types of query to be supported
+Range Query and Point Update 
+The obviuos answer is Segment Tree 
+
+And hence we can have all the three variants here
+Range Query , Range Update
+Range Query , Point Update
+Point Query , Range Update 
+
+All three are best solvable by Segment tree in O(LogN) time . 
+
+Why we can use Segment Tree here ??
+Bcoz we can find the answer to our problem in parts and those parts can answer bigger parts
+Bcoz sum has this property
+
+**************************************************************************************************************
+
+                                            THE END
+
+**************************************************************************************************************
