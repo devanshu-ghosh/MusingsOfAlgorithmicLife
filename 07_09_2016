@@ -37,6 +37,8 @@ SUM[R] - SUM[L-1] .
 
 Hence we have reduced our query to O(1) . 
 
+C++ code : http://ideone.com/PUG4a3
+
 What if the a sum in cummulative array overflows . [Well not likely , but still , well never]
 Lets No_of_digits be K 
 Max Number formed can be with all 9s . 
