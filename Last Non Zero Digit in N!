@@ -1,0 +1,43 @@
+Lets tackle a very interesting extension of a basic problem . 
+
+Question : Find the last non zero digit[LNZD from now on]in N! [Fatorial of N] ? 
+
+Thought Process : 
+
+1. Factorial the very big numbers . It makes sense not to ask the number and just one digit . 
+2. We can easily find the last digit by taking mod by 10 . In general sense , to get last N digits 
+   we take modulus by 10^N . 
+3. But this problem asks for the LNZD and not the last digit . we will have to change our process . 
+
+4. But we can establish that we will have to generate the factorial, although not save the entire result . 
+   The following code comes naturally 
+
+   int fact = 1;
+   for(int i=1;i<=N;i++)
+        fact *= i ;
+
+5. Lets see what happenns when we run the loop
+    1*1 = 1     = 1
+    1*2 = 2     = 2
+    2*3 = 6     = 6
+    6*4 = 24    = 4
+    24*5 = 120  = 2
+    120*6 = 720 = 2
+
+6. We begin to notice the logic when factorial comes out to be in double digit or more . 
+   4! = 24 
+   LNZD(4!) = LNZD(24) = 4
+   Now see how we get the LNZD(5!) 
+   LNZD(5!) = LNZD( LNZD(4!)*5 ) = LNZD( 4*5 ) = LNZD(20) = 2
+   You can test it mathematically and convince yourself that it is true . 
+   
+7. For most of you , an easy iterative solution would be obvious at this point .
+   For others , here is the pseudo code
+    int LNZD = 1;
+    for(int i=1;i<=N;i++){
+        LNZD *= i ;
+        LNZD  = getLNZD(LNZD);
+    }
+
+8. The getLNZD(int N) function has been left as an exercise for the viewer . 
+9. If you can see , then you will realize that you can also model it recusively without any difficulty .
