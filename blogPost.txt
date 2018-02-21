@@ -1,13 +1,21 @@
 In this post, I’m not trying to convince you that the other common forms of government are good. 
-Some examples posses an Indian tone to the situation . But it generalizes quiet well to other democratic countries.
+Some examples possess an Indian tone to the situation . But it generalizes quiet well to other democratic countries.
 
 
-We know what democracy is. But we are not trying to understand that it is failing. Democracy is made up. When the ancient Greeks devised the term democracy, it was appropriate then(or may be it never was), but its not suitable for today’s world.
-I’m a programmer, I work on machine learning. In machine learning, there is a concept where we design a machine, a system which learns from its mistakes and when it encounters the same problem again, it performs better next time. The world works like that. So In machine learning, when we notice that a system can’t learn anymore or can’t generalize, we either combine several different systems to get better results(which is not often practical) or we design a whole new system. That’s what is needed here.
-The democrat system we have here can not learn. why? because now its a crap.
-Some people might be thinking — Hey, but I think the democracy works
-That’s right but you can not get anything done with it that could produce a good result in a long term. You can overthrow a government, and after that?
-what do you think, is it possible to get your say at every government’s decision making step? That’s just not possible. And no, it doesn’t produce a good economic development. What about china? They conduct surveys, just too many surveys for things like garbage collection etc. And there economic progress is good. In India, we hardly have any surveys. You’ll find more linguistic mistakes on the portal than the data of a survey. You’ll see why I’m saying this later in this post.
+We know what democracy is. But we are oblivious to the fact that it is failing. It feels made up,not genuine. When the ancient Greeks devised it, it may have been appropriate(or it never was), but it is certainly not suitable for today’s world.
+
+I’m a programmer and I work in the field of Machine learning. A recurring concept in this field is of Learning. When we design a machine, it learns from its mistakes and when it encounters the same problem again, it performs better. Every learning process in real world is based on this idea. But when we notice that a system can’t learn anymore or can’t generalize, we either combine several different systems to get better results(which is not often practical) or we design a whole new system. 
+
+That’s what is needed here.
+The present day democrat system is not able to learn. Why? We will get to it in a few minutes.
+
+Some people might be thinking — Hey, but I think the democracy works. But i beg to differ.
+I believe you can not get substantial wok done that can produce long term results.
+The Chinese do things differently. They conduct a lot of serveys. Even for small things like garbage collection drives. I think it provides a good indicator of health of the process on ground and it surely helps in economic progress.
+We , Indians dont believe in real world data. You’ll find more linguistic mistakes on the portal than the data of a survey. You’ll see why I’m saying this later in this post.
+
+
+*********************EDIT 1 END********************************
 When I first heard that the politicians are saying we need youth in politics. I thought these young people will bring new ideas not only to make the current system better but also to design a whole new system if required.
 We need to design a whole new system that can handle things in a better way. Can we at least think about it? Come on we are educated, we can.
 So in this post, first I’ll go through the problems that the democracy is facing then I’ll go through the problems that are impossible to solve with current system and at the end I’ll cover how it will end if we continue with the current system.
