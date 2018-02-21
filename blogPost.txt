@@ -1,0 +1,70 @@
+In this post, I’m not trying to convince you that the other common forms of government are good. 
+Some examples posses an Indian tone to the situation . But it generalizes quiet well to other democratic countries.
+
+
+We know what democracy is. But we are not trying to understand that it is failing. Democracy is made up. When the ancient Greeks devised the term democracy, it was appropriate then(or may be it never was), but its not suitable for today’s world.
+I’m a programmer, I work on machine learning. In machine learning, there is a concept where we design a machine, a system which learns from its mistakes and when it encounters the same problem again, it performs better next time. The world works like that. So In machine learning, when we notice that a system can’t learn anymore or can’t generalize, we either combine several different systems to get better results(which is not often practical) or we design a whole new system. That’s what is needed here.
+The democrat system we have here can not learn. why? because now its a crap.
+Some people might be thinking — Hey, but I think the democracy works
+That’s right but you can not get anything done with it that could produce a good result in a long term. You can overthrow a government, and after that?
+what do you think, is it possible to get your say at every government’s decision making step? That’s just not possible. And no, it doesn’t produce a good economic development. What about china? They conduct surveys, just too many surveys for things like garbage collection etc. And there economic progress is good. In India, we hardly have any surveys. You’ll find more linguistic mistakes on the portal than the data of a survey. You’ll see why I’m saying this later in this post.
+When I first heard that the politicians are saying we need youth in politics. I thought these young people will bring new ideas not only to make the current system better but also to design a whole new system if required.
+We need to design a whole new system that can handle things in a better way. Can we at least think about it? Come on we are educated, we can.
+So in this post, first I’ll go through the problems that the democracy is facing then I’ll go through the problems that are impossible to solve with current system and at the end I’ll cover how it will end if we continue with the current system.
+Problems
+Incompetent government-
+We have had too many examples in the past where there was a decision required to be made and government just couldn’t make it. Or maybe they did but they did not succeed. Like the decision of finding a solution to hold several communities together rather than being a two faced government, where you show your concern to the community which you need the most in order to maintain or get the majority position in the parliament. But who doesn’t do that? Umm.. The government which is not completely biased! The government who thinks will retain its position no matter how much disrespect it gets from some communities or groups.
+The root of the problem is somewhat defined by the government’s ability to get things done. We have a government which works for a short term (a very short term). So, It can not make long term goals because those goals and progresses will be discarded by the next term government by several means, if not already turn out to be infeasible with current constraints. Ideally what we want the government to do is to decide what’s right for the country as opposed to what’s right for the next election.
+Example -
+The grand canal of china
+Do you think any such thing would be possible with the current form of government? heh.. 
+It would take 10X time to build that canal given the current governmental conditions (if it is ever possible here). When you make a policy, most of the time it has a long term impact that are some times irreversible, so you have to make long term goals and get things done.
+Uninformed voters-
+For the voters to decide what is right for them they have to be informed and educated(literate? not always). Now the percentage of voters in India is low and even lower is the percentage of educated people among them, the people who are able to decide what’s good for them, the people who can prioritize between long term benefits and immediate benefits. That lower percentage which is uneducated is being used as a vote bank. Since 51% > 49%, such situation results in electing a bad politician as their ruler, all thanks to democracy.
+The root of this problem lies in how media works. Since It’s somewhat impossible to have everyone’s say in every decision making (why? look at the population), media is the best way how we get to know how good the government is working and what it is doing. But we have different media voices that are competing. They fragment the opinion as opposed to federate the discussion. More or less it is biased. Citizen’s are confused today as opposed to get helped by the media.
+Some people say the basic cause of all this is that we don’t have equal education among the people. The education that I was talking about here is relative to the time. What level of education we need now to make the best decision for our future might not be equal to the education we needed earlier or would possibly need in the future. Believing that people will have equal such-education is silly because there will always be the top x% who understand their needs better than the rest. It’s not unfair. The door to get into that top x% is always open. Umm.. really? but its hard now, so many obstacles. what about that? Well, It was worse for them, why shouldn’t it be bad for you?
+So waiting for everything to automatically get right after we have achieved equality is just silly. 
+Forced equality means less opportunity which makes you individually great but results in pretty bad things if you think it thoroughly like less innovation and all.
+Pretty good for something that’s supposed to be so bad. eh!
+What seems impossible..
+Overcoming conflict of interests-
+Let’s take an example that the government is about to implement a bullet train network in India. Now suppose that it’s route intersects with some farmer’s land and he will not get a proper price for his land from the government. So this implementation of bullet train network is not in good interest of the farmer but it would be in a good interest of a businessman or any such commuter who will benefit from this train. So what’s good for one person or community might not be good for the other.
+Presuming people will think out of their self interest is just not possible(basic principle of economics), even if it was possible it would not work.
+And you think this ’interest of the majority’ thing should work?
+A utopian society and resources-
+A very basic principle on which democracy works is that the government will turn out to be good for the society and will allocate the resources optimally or at least rationally. But as it turns out, it doesn’t happen. why?
+Let’s take an example -
+Let’s say, Government is about to make a policy to allocate more money in the welfare of the poor. Let’s say they are going to give 500 bucks to every poor person. Now, if you oppose this policy, society would think that you are just mean.
+But If the government asks that you will have to pay 2000 bucks more as taxes for this policy to work then those very people who earlier thought that you’re just being mean, would think again.
+But why did they think that you’re being mean in the first case? because they think that policy was going to be implemented for free, it’s some kind of magic money that we are allocating to the welfare. But as it turns out, it’s not.
+If you are enjoying a service, It’s not for free.
+It’s just that the cost is being deferred and you are not able to figure out cost and it’s benefits exactly. It points to the lack of financial education in schools.
+We don’t understand things like money printing gives liabilities the appearance of assets.
+You can’t optimally or rationally allocate the resources if resources are infinite. There is no way that a central governing agency can know what is the best way to allocate resources.
+Coming to the society, As is evident from the conflict of interests example there is no such thing as “The general good of society as a whole”.
+Society = competing interests.
+So as it turns out, it’s better for the so called democratic government to keep money in fewer hands, as they are going to fund the party in the next election and provide them monetary support.
+End of Democracy is inevitable..
+Bad leaders-
+Leaders here, are not capable of doing something good because they don’t possess empathy, they don’t have such a perspective.
+People who are elected are not much respected. They are not good “Listeners”.
+They have mastered the art of delivering a one-way monologue, where a proper debate is needed. What causes all this ? Voters.
+Voters should be non-idiots. Leaders should be elected not just because they are popular. Even the good leaders, they all know what needs to be done, they just don’t know how to do it and get reelected after it’s done.
+Limited resources-
+In very earlier stage, when the society began to globalize, they agreed upon some rules on global commons such as ocean water. But soon after globalization we forgot those very terms and rules. Why I am talking about it? wait and you’ll notice.
+Now the situation is oil consumption is at all time high but the resource is limited and production is at its peak.
+Where do you see it is going?
+Beside all the factors that you already saw that could possibly create a political chaos, these factors have a major contribution as well.
+At the end when it would have completely undermined democracy, we will find someone to put the blame on, we will return to our values. People will demand a person who can make decisions.
+A man of authority : A Caesar
+If west is going to survive, democracy must be sacrificed.
+If not democracy, then what?
+There have been several progress in this area. Some books and papers are published which proposes a different governmental system, an intelligent governance. Some propose a government having two parts of congress-
+* A house of elected representatives
+* A senate of educated and knowledgeable people.
+Some propose a blockchain based voting and execution system, more transparent.
+What’s feasible and what’s not. I don’t know. The whole point of this post was to ask people to think otherwise, not to correct the system but to literally change the system.
+Think, think, think..
+Comments are welcome. It would be easy for me if you make your comment concise.
+Thank You.
+
